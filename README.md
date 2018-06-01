@@ -1,7 +1,7 @@
 # Gulp.js
 template for some general use
 
-# Module 
+# plugins 
 ### gulp-imagemin
 compress image files
 ### gulp-html
